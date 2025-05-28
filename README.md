@@ -1,4 +1,4 @@
-# 👋 你好，欢迎来到我的 GitHub！
+# 👋 Hi it's me AKA HBUTB1t
 
 > “如果你为我下一场雨，会是哪一种？”  
 
