@@ -1,4 +1,3 @@
-# 👋 Hi it's me AKA HBUT b1t
 
 > “如果你为我下一场雨，会是哪一种？”  
 
@@ -35,16 +34,13 @@
 
 ---
 
-## 💻 技术栈 & 编程语言分布
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wabshs)
-
----
-
-## 📊 开发者统计信息
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wabshs&show_icons=true&theme=radical" alt="Developer Stats" />
-</div>
+> 我已经受够了
+> 人生本来就是不公平的游戏
+> 单有努力也只是徒劳
+> 反正我是不可能过上普通日子的
+> 早知如此就该宅在家里
+> 现实中也好，网络中也罢
+> 都没有办法全力以赴 所以才这么无聊
+> 半途而废的人，就连逃避现实也做不好
 
 ---
