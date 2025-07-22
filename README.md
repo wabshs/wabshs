@@ -1,4 +1,6 @@
-> 所有信息都要求被释放
->               ————《枪杀宁静的黑客》
+contact me：
+> https://2dheartbreakcity.top
+
+may need use VPN 
 
 
