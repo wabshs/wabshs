@@ -1,6 +1,6 @@
 contact me：
 > https://2dheartbreakcity.top
 
-may need use VPN 
+Chinese users may need using VPN 
 
 
