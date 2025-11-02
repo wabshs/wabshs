@@ -24,5 +24,6 @@ four five six (｀∇´)
 
 你不讲理呀不讲理TvT
 
-> 我好痛苦啊，要是能用穿着厚黑JK的萌妹子开着奥迪R8接着我回村装b就好了T^T
+> 我好痛苦啊，要是能有穿着厚黑JK小皮鞋的萌妹子开着奥迪R8接着我回村装b就好了T^T
+> I WILL COME BACK WITH BLACK BENZ
 
