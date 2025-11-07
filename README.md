@@ -38,3 +38,7 @@ Skills I have:
 ![Java](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ![Java](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+![Java](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+
+![Java](https://img.shields.io/badge/MyBatis--Plus-000000?style=flat-square&logo=mybatis&logoColor=white)
